@@ -20,7 +20,7 @@ Tecnologias Utilizadas
 Como Utilizar
 
     Faça o download do repositório,
-    Em seu ambiente de desenvolvimento: cd login-react,
+    Em seu ambiente de desenvolvimento: cd landing-page,
     Instale as Dependências: npm install,
     Inicie o Projeto: npm run dev,
     Clique no link fornecido para acessar,
