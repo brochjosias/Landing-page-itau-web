@@ -23,9 +23,7 @@ _Tailwind CSS_
 git clone https://github.com/seu-usuario/landing-page-itau-web.git
 ```
 
-### Em seu ambiente de desenvolvimento
-
-Acesse o diretório do projeto
+### Acesse o diretório do projeto e em seu ambiente de desenvolvimento:
 
 ```bash
 cd landing-page-itau-web
