@@ -10,10 +10,10 @@ Integração de Recursos: Integra links de navegação e botões de call-to-acti
 
 ## Tecnologias Utilizadas
 
-_Next.js_
-_TypeScript_
-_HTML_
-_Tailwind CSS_
+- Next.js
+- TypeScript
+- HTML
+- Tailwind CSS
 
 ## Instalação
 
